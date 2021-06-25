@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                                                   android:layout_height="match_parent">
+
+    <TextView
+            android:text="Aperfeiçoar-se mais e mais a cada dia."
+            android:layout_width="327dp"
+            android:layout_height="164dp" android:id="@+id/textViewObj"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:textAlignment="center" android:textStyle="bold" android:textColor="@color/teal_200"
+            android:textSize="24sp" app:layout_constraintTop_toBottomOf="@+id/textViewObjDesc"
+            app:layout_constraintVertical_bias="0.25"/>
+    <TextView
+            android:text="Objetivo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/textViewObjDesc"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="128dp" android:textSize="36sp"
+            android:textStyle="bold" android:textColor="@color/design_default_color_on_secondary"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
