@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicativo 11 - Lista Pets</string>
+<string name="titulo_lista">Lista de Pets</string>
+<string name="titulo_cadastro">Cadastro de Pets</string>
+<string-array name="opcoes_spinner">
+<item>Cachorro</item>
+<item>Gato</item>
+<item>Jabuti</item>
+</string-array>
+</resources>
