@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "App19_CEP_R_SP"
