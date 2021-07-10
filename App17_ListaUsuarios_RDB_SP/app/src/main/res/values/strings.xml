@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicativo 17 - Lista de Usuários</string>
+    <string name="titulo_lista">Lista de Usuários</string>
+    <string name="titulo_cadastro">Cadastro de Usuários</string>
+    <string-array name="opcoes_spinner">
+        <item>Júnior</item>
+        <item>Pleno</item>
+        <item>Sênior</item>
+    </string-array>
+</resources>
