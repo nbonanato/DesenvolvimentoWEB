@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App19_InfoUsuarioGitHubWithRetrofit</string>
+    <string name="edtHintUsuario">Consulte um usuário...</string>
+</resources>
